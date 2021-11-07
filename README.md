@@ -5,6 +5,8 @@
 > Serra, a pet which i use as personal brand, All rights reserved
 
 At the very moment i don't have any honeypots in here. But this ~wouldn't~ would be the case forever!
+
+[WIP] 
 ```C
 #define ABOUTME "Projecting in web engineering because of need,  interested on  software developing because of passion and open source just because"
 ```
