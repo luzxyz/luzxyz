@@ -6,7 +6,7 @@
 
 At the very moment i don't have any honeypots in here. But this ~wouldn't~ would be the case forever!
 
-[WIP] 
+[Unexpected pointer found in my life PATH!: Cannot continue by now] 
 ```C
 #define ABOUTME "Projecting in web engineering because of need,  interested on  software developing because of passion and open source just because"
 ```
