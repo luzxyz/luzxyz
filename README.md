@@ -4,4 +4,4 @@
 
 > Serra, a pet which i use as personal brand, All rights reserved
 
-```
+``` I left this site since is owned by micro$oft ```
