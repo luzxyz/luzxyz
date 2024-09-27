@@ -1,5 +1,5 @@
 ## Yorch
-Colombian. Languagues that I know ES IT EN.
+Colombian. Languages that I know ES IT EN.
 
 Check out my my other sites:
 [Codeberg](https://codeberg.org/luzxyz/)
